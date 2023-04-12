@@ -246,7 +246,7 @@ const handleRemoveFile4 = () => {
             </span>
             </div>
 
-            <input id="bac" type="number" name="bac" className="text-sm sm:text-base placeholder-gray-500 pl-10 pr-4 rounded-lg border bg-colone border-gray-400 w-full py-2 focus:outline-none focus:border-white" placeholder="Bank account" />
+            <input id="bac" type="text" name="bac" className="text-sm sm:text-base placeholder-gray-500 pl-10 pr-4 rounded-lg border bg-colone border-gray-400 w-full py-2 focus:outline-none focus:border-white" placeholder="Bank account" />
         </div>
         </div>
 
